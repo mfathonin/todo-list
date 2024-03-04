@@ -1,0 +1,28 @@
+{
+  "$schema": "https://typedoc.org/schema.json",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "main": {
+      "type": "string"
+    },
+    "scripts": {
+      "type": "object"
+    },
+    "dependencies": {
+      "type": "object"
+    },
+    "devDependencies": {
+      "type": "object"
+    }
+  },
+  "required": ["name", "version"]
+}

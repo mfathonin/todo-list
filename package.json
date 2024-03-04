@@ -1,0 +1,12 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "Tech stack exploration by building a simple todo list",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "$schema": "./package.schema.json",
+  "keywords": [],
+  "author": "mfathonin@gmail.com",
+  "license": "MIT"
+}
