@@ -1,0 +1,23 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "jsx": "react-jsx",
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    /* Output */
+    "outDir": "./dist",
+    "declaration": true
+  },
+  "include": [
+    "."
+  ],
+  "exclude": [
+    "dist",
+    "node_modules",
+    "**.test.ts"
+  ]
+}
