@@ -1,20 +1,17 @@
-import { Container, Button, TextField } from "components";
+import { BrowserRouter, Route, Routes as Router } from "react-router-dom";
+import TodoPage from "./pages/TodoPage";
+import ErrorPage from "./pages/ErrorPage";
 
 function App() {
-  const handleClick = () => {
-    console.log("clicked");
-  };
-
   return (
-    <Container>
-      <h1>Todo List</h1>
-      <form>
-        <TextField placeholder="type here create todo" />
-        <Button type="submit" onClick={handleClick}>
-          Add
-        </Button>
-      </form>
-    </Container>
+    <BrowserRouter>
+      <Router>
+        <Route path="/" errorElement={<ErrorPage />}>
+          <Route index element={<TodoPage />} />
+        </Route>
+        <Route path="*" element={<ErrorPage />} />
+      </Router>
+    </BrowserRouter>
   );
 }
 

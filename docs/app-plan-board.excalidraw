@@ -36,8 +36,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Todo apps for demo LO",
-      "lineHeight": 1.25,
-      "baseline": 31
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -72,8 +71,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "FE",
-      "lineHeight": 1.25,
-      "baseline": 24
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -108,8 +106,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "BE",
-      "lineHeight": 1.25,
-      "baseline": 24
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -144,8 +141,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Ops",
-      "lineHeight": 1.25,
-      "baseline": 24
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -180,8 +176,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Nest.js\n* Auth\n* Validation Pipe\n* ",
-      "lineHeight": 1.25,
-      "baseline": 93
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -216,8 +211,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "PocketBase",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -252,8 +246,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "React\n- suspends\n- query\n- styled-component",
-      "lineHeight": 1.25,
-      "baseline": 93
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -288,8 +281,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Next.js\n- app router\n- server components\n- SWR",
-      "lineHeight": 1.25,
-      "baseline": 93
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -324,8 +316,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "- Docker compose",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -360,8 +351,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "- Auth\n    * register\n    * login",
-      "lineHeight": 1.25,
-      "baseline": 68
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -396,8 +386,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "- CRUD Todo list\n    * create todo\n    * mark as done\n    * update todo\n    * delete todo\n    * read by Id\n    * read with pagination",
-      "lineHeight": 1.25,
-      "baseline": 168
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -432,8 +421,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Feature",
-      "lineHeight": 1.25,
-      "baseline": 31
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -468,8 +456,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Go + HTMX",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -504,8 +491,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "- Automated testing API in postman",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -540,8 +526,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "- GitHub Actions\n    * unit test\n    * deployment (?)",
-      "lineHeight": 1.25,
-      "baseline": 68
+      "lineHeight": 1.25
     },
     {
       "type": "rectangle",
@@ -735,8 +720,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Hello, ${UserName}",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -771,8 +755,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Hello, ${UserName}",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "rectangle",
@@ -981,8 +964,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Task #1",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -1017,8 +999,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Task #1",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -1053,8 +1034,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Task #2",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -1089,8 +1069,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Task #2",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -1125,8 +1104,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "|",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -1161,8 +1139,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "|",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -1197,8 +1174,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Versioning",
-      "lineHeight": 1.25,
-      "baseline": 24
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -1233,8 +1209,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "v1.0.0: \n    * Simple task (title, status, owner)\n    * Simple auth (register, login)\nv2.0.0:\n    * Detail task (title, desc, status, owner)\n    * Sub-task (auto done parent task)\n    * Email verification\n    * Email notification\nv3.0.0:\n    * Deadline\n    * Priority\nV4.0.0:\n    * Focus zone",
-      "lineHeight": 1.25,
-      "baseline": 318
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -1269,8 +1244,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "- ngix: /{apps}/{version}/...",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "ellipse",
@@ -1303,30 +1277,30 @@
     },
     {
       "type": "ellipse",
-      "version": 81,
-      "versionNonce": 952771754,
+      "version": 181,
+      "versionNonce": 575966573,
       "isDeleted": false,
-      "id": "U9AQQZC65eBrY3rxPs2Jf",
+      "id": "RDcPD6mOsDIHYA_sspwr_",
       "fillStyle": "cross-hatch",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": -2009.8318463061057,
-      "y": -139.80630953291865,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffc9c9",
+      "x": -2038.9780972706515,
+      "y": -140.01813037812303,
+      "strokeColor": "#fa5252",
+      "backgroundColor": "transparent",
       "width": 21.725503193289,
       "height": 21.725503193289,
-      "seed": 311196138,
+      "seed": 963872589,
       "groupIds": [],
       "frameId": null,
       "roundness": {
         "type": 2
       },
-      "boundElements": [],
-      "updated": 1708918311914,
+      "boundElements": null,
+      "updated": 1709720876674,
       "link": null,
       "locked": false
     },
@@ -1361,8 +1335,8 @@
     },
     {
       "type": "ellipse",
-      "version": 94,
-      "versionNonce": 506724202,
+      "version": 289,
+      "versionNonce": 587838627,
       "isDeleted": false,
       "id": "6K6g_bx_ucmS7iO7O4B4J",
       "fillStyle": "cross-hatch",
@@ -1371,12 +1345,12 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": -2008.8841335480204,
+      "x": -2010.046398344025,
       "y": -97.21808927472051,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffc9c9",
-      "width": 21.725503193289,
-      "height": 21.725503193289,
+      "strokeColor": "#343a40",
+      "backgroundColor": "#ff8787",
+      "width": 22.887767989293483,
+      "height": 23.091967460814878,
       "seed": 100659638,
       "groupIds": [],
       "frameId": null,
@@ -1384,7 +1358,36 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1708918311914,
+      "updated": 1709720980121,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "ellipse",
+      "version": 342,
+      "versionNonce": 159071715,
+      "isDeleted": false,
+      "id": "8elgIywK32At1bsHSzBfv",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": -2040.618183658456,
+      "y": -96.66680969284874,
+      "strokeColor": "#343a40",
+      "backgroundColor": "transparent",
+      "width": 22.887767989293483,
+      "height": 23.091967460814878,
+      "seed": 1976040397,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1709721077002,
       "link": null,
       "locked": false
     },
@@ -1419,8 +1422,8 @@
     },
     {
       "type": "ellipse",
-      "version": 134,
-      "versionNonce": 1460961834,
+      "version": 137,
+      "versionNonce": 132445261,
       "isDeleted": false,
       "id": "WYDakOckFN994lVcG062D",
       "fillStyle": "cross-hatch",
@@ -1431,7 +1434,7 @@
       "angle": 0,
       "x": -2009.7468506129296,
       "y": -53.724619573289715,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#343a40",
       "backgroundColor": "#a5d8ff",
       "width": 21.725503193289,
       "height": 21.725503193289,
@@ -1442,7 +1445,36 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1708918311914,
+      "updated": 1709721024925,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "ellipse",
+      "version": 217,
+      "versionNonce": 1850900013,
+      "isDeleted": false,
+      "id": "qEMqu7IwmkTjBR7jcDRce",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": -2040.002440374007,
+      "y": -55.142087663159515,
+      "strokeColor": "#343a40",
+      "backgroundColor": "transparent",
+      "width": 21.725503193289,
+      "height": 21.725503193289,
+      "seed": 1390519341,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1709721042419,
       "link": null,
       "locked": false
     },
@@ -1479,8 +1511,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Completed Task over the weeks.",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -1515,8 +1546,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Completed Task over the weeks.",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "line",
@@ -1734,8 +1764,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Task #1",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -1770,8 +1799,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Task #1",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -1806,8 +1834,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Task #1",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "line",
@@ -2123,8 +2150,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "see more ...",
-      "lineHeight": 1.25,
-      "baseline": 14
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -2164,8 +2190,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Delete button",
-      "lineHeight": 1.25,
-      "baseline": 14
+      "lineHeight": 1.25
     },
     {
       "type": "arrow",
@@ -2257,8 +2282,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Save Button",
-      "lineHeight": 1.25,
-      "baseline": 14
+      "lineHeight": 1.25
     },
     {
       "type": "arrow",
@@ -2350,8 +2374,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Expand to show completed task",
-      "lineHeight": 1.25,
-      "baseline": 14
+      "lineHeight": 1.25
     },
     {
       "type": "arrow",
@@ -2495,8 +2518,7 @@
       "verticalAlign": "middle",
       "containerId": "V--pSTFD6rX0FvMIpfART",
       "originalText": "Transition to this",
-      "lineHeight": 1.25,
-      "baseline": 17
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -2531,8 +2553,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Login",
-      "lineHeight": 1.25,
-      "baseline": 31
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -2567,8 +2588,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Register",
-      "lineHeight": 1.25,
-      "baseline": 31
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -2603,8 +2623,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Full name",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -2639,8 +2658,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Email",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -2675,8 +2693,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Email",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -2711,8 +2728,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Password",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -2747,8 +2763,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Password",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -2783,8 +2798,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Password Confirmation",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "ellipse",
@@ -2908,8 +2922,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Start your journey",
-      "lineHeight": 1.25,
-      "baseline": 14
+      "lineHeight": 1.25
     },
     {
       "type": "ellipse",
@@ -3039,8 +3052,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Start your journey",
-      "lineHeight": 1.25,
-      "baseline": 14
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -3075,8 +3087,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Completed Task",
-      "lineHeight": 1.25,
-      "baseline": 24
+      "lineHeight": 1.25
     },
     {
       "type": "rectangle",
@@ -3198,8 +3209,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Task #1",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -3234,8 +3244,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Task #1",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -3270,8 +3279,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Task #1",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "line",
@@ -3503,8 +3511,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Back",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "arrow",
@@ -3818,8 +3825,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Mono Repo Design",
-      "lineHeight": 1.25,
-      "baseline": 31
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -3854,8 +3860,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Structure",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -3890,8 +3895,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "- app\n    - fe-react-vite\n    - fe-next-vite\n    - fe-react-native\n    - fs-golang\n- services\n    - be-nest\n    - be-pocketbase\n- packages\n    - utils\n        * helper\n    - repository\n        * models/schema\n        * pb -> pocketbase\n        * ns -> nest\n    - components\n        * styled-component\n        * tailwind\n- docker-compose",
-      "lineHeight": 1.25,
-      "baseline": 374
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -3926,8 +3930,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Tools",
-      "lineHeight": 1.25,
-      "baseline": 18
+      "lineHeight": 1.25
     },
     {
       "type": "text",
@@ -3962,8 +3965,422 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "* pnpm workspace\n* nx",
-      "lineHeight": 1.25,
-      "baseline": 34
+      "lineHeight": 1.25
+    },
+    {
+      "id": "shVSlcyGmFsRir1jay0GW",
+      "type": "line",
+      "x": -2012.772587709282,
+      "y": -14.544969822429096,
+      "width": 0.19928748232359794,
+      "height": 11.076126243087984,
+      "angle": 0,
+      "strokeColor": "#343a40",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "cI0X6OVqmp9HUHzBHcheV"
+      ],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 258124717,
+      "version": 163,
+      "versionNonce": 1914277027,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1709721188269,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.19928748232359794,
+          11.076126243087984
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "fc_tttTBpuxgcSoRVkfn2",
+      "type": "line",
+      "x": -2028.712578769535,
+      "y": -49.859180506665815,
+      "width": 0.19928748232359794,
+      "height": 11.076126243087984,
+      "angle": 0,
+      "strokeColor": "#4dabf7",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "sNV96-QTSy4c3AEiYxFaO"
+      ],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 10207523,
+      "version": 212,
+      "versionNonce": 1673075181,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1709721063185,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.19928748232359794,
+          11.076126243087984
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "bXJjG_z-n1kaL-4gie7UG",
+      "type": "line",
+      "x": -2019.2981263268757,
+      "y": -8.967921229491061,
+      "width": 12.3014190127451,
+      "height": 0.5724340738552627,
+      "angle": 0,
+      "strokeColor": "#343a40",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "cI0X6OVqmp9HUHzBHcheV"
+      ],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1721274051,
+      "version": 105,
+      "versionNonce": 2099642435,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1709721188269,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          12.3014190127451,
+          0.5724340738552627
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "u-julayHySQabh8e-H7hq",
+      "type": "line",
+      "x": -2035.2381173871286,
+      "y": -44.28213191372778,
+      "width": 12.3014190127451,
+      "height": 0.5724340738552627,
+      "angle": 0,
+      "strokeColor": "#4dabf7",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "sNV96-QTSy4c3AEiYxFaO"
+      ],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 953587341,
+      "version": 154,
+      "versionNonce": 594511715,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1709721063185,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          12.3014190127451,
+          0.5724340738552627
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "EK2Q3WUbkcAhBog5D-dfk",
+      "type": "line",
+      "x": -2004.2340127817351,
+      "y": -86.0944070336036,
+      "width": 11.500612361481899,
+      "height": 0.6918500583741718,
+      "angle": 0,
+      "strokeColor": "#343a40",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 159381005,
+      "version": 76,
+      "versionNonce": 442659171,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1709720968859,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          11.500612361481899,
+          0.6918500583741718
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "-V4ZSkBdya_Y7r6E4JLPl",
+      "type": "line",
+      "x": -2034.8057980961662,
+      "y": -85.54312745173183,
+      "width": 11.500612361481899,
+      "height": 0.6918500583741718,
+      "angle": 0,
+      "strokeColor": "#fa5252",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 664810371,
+      "version": 126,
+      "versionNonce": 291356067,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1709721009504,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          11.500612361481899,
+          0.6918500583741718
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "type": "ellipse",
+      "version": 98,
+      "versionNonce": 2098624333,
+      "isDeleted": false,
+      "id": "U9AQQZC65eBrY3rxPs2Jf",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": -2009.8318463061057,
+      "y": -139.80630953291865,
+      "strokeColor": "#fa5252",
+      "backgroundColor": "#ffc9c9",
+      "width": 21.725503193289,
+      "height": 21.725503193289,
+      "seed": 311196138,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1709721176589,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "OvTawLbzxDWISP9xJ-5s4",
+      "type": "line",
+      "x": -2004.7577831963663,
+      "y": -129.37193070668846,
+      "width": 11.500612361481899,
+      "height": 0.6918500583741718,
+      "angle": 0,
+      "strokeColor": "#fa5252",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1860509699,
+      "version": 327,
+      "versionNonce": 1596534787,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1709721176589,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          11.500612361481899,
+          0.6918500583741718
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "v38lyFdjPRzcJGG5z6efJ",
+      "type": "text",
+      "x": -2439.4907908403757,
+      "y": 767.2824330207534,
+      "width": 336.5198059082031,
+      "height": 200,
+      "angle": 0,
+      "strokeColor": "#343a40",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 535721571,
+      "version": 203,
+      "versionNonce": 223105293,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1709737992860,
+      "link": null,
+      "locked": false,
+      "text": "Todo:\n* Implement Redux\n* Create docker\n    - single apps\n    - pairs FE-BE\n        1. FE - Pocketbase\n        2. Multi FE - PocketBase\n        3. Multi FE - BE (*)",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Todo:\n* Implement Redux\n* Create docker\n    - single apps\n    - pairs FE-BE\n        1. FE - Pocketbase\n        2. Multi FE - PocketBase\n        3. Multi FE - BE (*)",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "fEEyFqvPrvXGBq9oBPL8u",
+      "type": "text",
+      "x": -2025.8622159224376,
+      "y": 791.528457441137,
+      "width": 306.27978515625,
+      "height": 150,
+      "angle": 0,
+      "strokeColor": "#343a40",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1439379917,
+      "version": 188,
+      "versionNonce": 1647941901,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1709738108651,
+      "link": null,
+      "locked": false,
+      "text": "* Add Nextjs\n* Install PocketBase\n* Add auth: page, routes, logic\n* Create Nest.js\n* Create Go\n* Create htmX-Go",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "* Add Nextjs\n* Install PocketBase\n* Add auth: page, routes, logic\n* Create Nest.js\n* Create Go\n* Create htmX-Go",
+      "lineHeight": 1.25
     }
   ],
   "appState": {
