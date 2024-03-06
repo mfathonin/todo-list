@@ -3,11 +3,11 @@ import { type PropsWithChildren } from "react";
 
 export const themes = {
   colors: {
-    primary: "#62a5f1",
-    secondary: "#495654",
-    error: "#e04f4f",
-    bg: "#fffae8",
-    fg: "#262626",
+    primary: "#a5d8ff",
+    secondary: "#40c057",
+    error: "#ff8787",
+    bg: "#fdf8f6",
+    fg: "#605f5e",
   },
 } as const;
 
